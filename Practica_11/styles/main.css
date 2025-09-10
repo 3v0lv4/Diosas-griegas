@@ -25,6 +25,24 @@ main {
     text-align: center;
 }
 
+.carousel p {
+    display: flex;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(7, 216, 216);
+    margin: 10px 10px;
+    box-sizing: border-box;
+}
+
+.rep {
+    width: 400px;
+    margin: 10px 10px;
+    align-items: center;
+}
+
 footer {
     display: flex;
     justify-content: space-evenly;
